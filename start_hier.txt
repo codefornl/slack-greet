@@ -20,6 +20,7 @@ In meerdere kanalen wordt gesproken over public tech:
 <#C01E6TR8FPA|innovatiebudget-machtigen> - kanaal voor het project 'Gebruiksvriendelijk vrijwillig machtigen’
 <#C01FHPYQ0G5|polis> - kanaal over implementatie van Polis als burgerparticipatie tool
 <#CVA9LGHMM|corona> - startpunt voor vragen en ideeën rondom corona-ontwikkelingen
+<#C01V62W1T45|filter-me-niet-2> - slimme uploadtool voor onafhankelijke content makers
 
 Het Ministerie van VWS realiseert in openheid digitale ondersteuning ter bestrijding van de coronacrisis, in o.a. deze kanalen:
 <#C01JCE9UHB6|coronacheck> - praat hier mee over de ontwikkeling CoronaCheck, welkom!
